@@ -17,4 +17,4 @@ MyCrypto which is a GUI wallet to store your coins
 Geth which is the mining software so we can mine ETH
 - make sure you make a new folder called Blockshain tools and store the geth files in it because we will use it in the future.
 
-![picture] (Pictures/Screenshot 2021-05-04 183536.png) 
+![Alt Text] (Pictures/Screenshot 2021-05-04 183536.png) 
